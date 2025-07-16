@@ -13,5 +13,4 @@ This repository contains the KiCad PCB design files for a basic DC-DC Boost Conv
 
 🔋 Use Case: Basic boost conversion for low-power devices
 
-# Schematic Diagram
-![Schematic]("C:\Users\Admin\Documents\First Kicad\DC-DC Boost Converter\schematics img.png")
+
