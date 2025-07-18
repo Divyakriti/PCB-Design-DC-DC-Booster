@@ -15,5 +15,7 @@ Adjustable feedback network (RV1 + R1)
 
 Input/output filtering capacitors for stability
 
+# linkedin
+https://www.linkedin.com/posts/divyakriti-prabhu-uma-18766532a_pcbdesign-kicad-dcboostconverter-activity-7345766748652003329-ISfW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC8T2AUB---pCezkZ1HMYBolmk8M6LHrkVM
 
 
